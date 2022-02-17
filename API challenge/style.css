@@ -1,0 +1,9 @@
+body {
+    padding: 10px;
+}
+
+.box_color {
+    border: 5px solid black;
+    width: 10vh;
+    height: 10vh;
+}
